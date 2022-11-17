@@ -1,0 +1,5 @@
+Component: main
+Origin: reubenmiller.github.io/c8y-debian
+Label: reubenmiller.github.io/c8y-debian
+Architecture: arm64
+Description: Unofficial Cumulocity go-c8y-cli repository

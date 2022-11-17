@@ -1,0 +1,7 @@
+Origin: reubenmiller.github.io/c8y-debian
+Label: reubenmiller.github.io/c8y-debian
+Codename: stable
+Architectures: amd64 arm64 armhf armel i386
+Components: main
+Description: Unofficial Cumulocity go-c8y-cli repository
+SignWith: 6CAF108CD5CAC5646BE053C2214DBC7D597839C8
