@@ -7,7 +7,7 @@ Suggests: jq, git
 Homepage: http://goc8ycli.netlify.app
 Priority: optional
 Section: utils
-Filename: pool/main/g/go-c8y-cli/go-c8y-cli_2.19.0_arm64.deb
+Filename: https://github.com/reubenmiller/go-c8y-cli/releases/download/v2.19.0/go-c8y-cli_2.19.0_arm64.deb
 Size: 6212344
 SHA256: 50645a586a2e6e393dc07929fb5eed412d897ee1314d2c1084058e9452e01d5e
 SHA1: 726c7123822814437cd9af7178e27f1cac7ebb94
